@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Ingatlah Kematiaan
+# Ingatlah Kematian
 
 - Hidup ini singkat akan berlalu dengan cepat
 - Aku telah melihat banyak orang dimasukkan ke liang lahat
