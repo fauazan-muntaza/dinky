@@ -1,9 +1,8 @@
 ---
-layout: post
-title:  "Perjalananku"
-date:   2019-03-02 12:26:56 +0800
-categories: puisi
+layout: default
 ---
+
+# Perjalananku
 
 - Apakah baginya adalah suatu yang tiada harganya?
 - Apakah baginya adalah senda gurauan sahaja?
