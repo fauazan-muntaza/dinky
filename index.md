@@ -13,3 +13,4 @@ layout: default
 # Kumpulan Puisi tentang Poligami:
 
 -   [SUARA HATI SANG PENCARI ...](./2017-01-01-puisi-poligami1.html)
+-   [MENGAPA TA'ADDUD DI BENCI](./2015-09-29-puisi-poligami2.html)
