@@ -8,3 +8,8 @@ layout: default
 -   [Ingatlah Kematian](./2019-01-27-puisi1.html)
 -   [Perjalananku](./2019-03-02-puisi3.html)
 -   [Aku pun pergi meninggalkan mu](./2019-05-15-puisi4.html)
+
+
+# Kumpulan Puisi tentang Poligami:
+
+-   [SUARA HATI SANG PENCARI ...](./2017-01-01-puisi-poligami1.html)
