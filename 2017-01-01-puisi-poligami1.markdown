@@ -32,7 +32,7 @@ layout: default
 -    Semuanya demi ridho Robbku....
     
     
-_Hamba Allah_
+_Hamba Allah_   
 09 Jumadal ula 1439H
 
 sumber: [https://t.me/maximal4](https://t.me/maximal4)
